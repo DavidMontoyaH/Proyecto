@@ -22,5 +22,7 @@ return this.nombre;
     public void andar()
     {
         System.out.print(nombre+"Está caminando");
+        
+        System.out.print(nombre+"Hola");
     }
 }
